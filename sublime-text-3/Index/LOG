@@ -1,0 +1,5 @@
+2016/12/29-00:38:07.747545 b0fe1b40 Recovering log #45
+2016/12/29-00:38:07.747723 b0fe1b40 Level-0 table #48: started
+2016/12/29-00:38:07.825862 b0fe1b40 Level-0 table #48: 12189 bytes OK
+2016/12/29-00:38:08.026029 b0fe1b40 Delete type=3 #43
+2016/12/29-00:38:08.026089 b0fe1b40 Delete type=0 #45
